@@ -1,0 +1,2 @@
+include networkapp/textfsm_templates/*.textfsm
+recursive-include networkapp/textfsm_templates *
